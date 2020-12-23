@@ -6,6 +6,8 @@ repo: Blackstone-Status # Your Github repository name
 sites:
   - name: Website
     url: https://www.blackstone.studio
+  - name: App
+    url: https://app.blackstone.studio
   - name: API
     url: https://api.blackstone.studio
 
