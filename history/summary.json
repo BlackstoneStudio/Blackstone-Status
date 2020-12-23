@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/api.blackstone.studio",
     "slug": "api",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 311,
     "timeDay": 311,
     "timeWeek": 311,
     "timeMonth": 311,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2020-12-23": 32
+      "2020-12-23": 33
     }
   }
 ]
