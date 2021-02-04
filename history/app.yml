@@ -1,7 +1,7 @@
 url: https://app.blackstone.studio
-status: up
-code: 200
-responseTime: 564
-lastUpdated: 2021-02-03T23:09:34.698Z
+status: down
+code: 502
+responseTime: 395
+lastUpdated: 2021-02-04T01:49:50.610Z
 startTime: Wed Dec 23 2020 01:15:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
